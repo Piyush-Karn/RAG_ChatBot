@@ -11,7 +11,7 @@
 
 [Features](#features) • [Demo](#demo) • [Installation](#installation) • [Usage](#usage) • [How it Works](#how-it-works) • [Contributing](#contributing) • [License](#license)
 
-<img src="https://raw.githubusercontent.com/piyush-karn/RAG_ChatBot/main/assets/chatbot-preview.png" width="600" alt="SQuAD RAG Chatbot Preview">
+<img src="https://raw.githubusercontent.com/piyush-karn/RAG_ChatBot/main/assets/chatbotpreview.png" width="600" alt="SQuAD RAG Chatbot Preview">
 
 </div>
 
